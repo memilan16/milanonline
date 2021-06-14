@@ -8,5 +8,5 @@ Milan is an experienced Cloud Professional and self taught developer.  He has mo
 - Twitter: https://twitter.com/
 - LinkedIn: https://www.linkedin.com/in/milan-nath-3a51723b/
 - Instagram: https://instagram.com/
-- GitHub: https://github.com/me.milan16
+- GitHub: https://github.com/memilan16
 - Website:  
